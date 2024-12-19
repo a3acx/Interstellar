@@ -3,6 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     a3acx: "a350",
+    aeronautica: "ptfs",
   },
 };
 
